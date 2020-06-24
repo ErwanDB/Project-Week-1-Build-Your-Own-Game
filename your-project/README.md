@@ -17,6 +17,7 @@ I choose to create a Mastermind game because it's a game I know well for having 
 
 ## Rules
 The computer or the challenger create a combination of four elements (colors or digits or animals or ...) which has an order and hide it. The player has to find this combination. To do this he proposes a first random combination of four elements among those available. The challenger then check with its combination hidden and advise by a red color the elements that correspond to its combination and which are correctly places. The white color indicate that an element corresponds to one in its combination but is not correctly placed. for the elements that are not in its combination, the challenger indicate nothing.
+With those indication the player can try another combination and so on until he finds the one hidden by the challenger.
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
