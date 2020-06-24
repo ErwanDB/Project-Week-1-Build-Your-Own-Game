@@ -3,7 +3,7 @@
 # Mastermind
 *Erwan de Boisjolly*
 
-*Data Analytics, Barcelona & June*
+*Data Analytics - June, Barcelona*
 
 ## Content
 - [Project Description](#project-description)
