@@ -13,10 +13,10 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+I choose to create a Mastermind game because it's a game I know well for having played often when I was a kid.
 
 ## Rules
-Briefly describe the rules of the game.
+The computer or the challenger create a combination of four elements (colors or digits or animals or ...) which has an order and hide it. The player has to find this combination. To do this he proposes a first random combination of four elements among those available. The challenger then check with its combination hidden and advise by a red color the elements that correspond to its combination and which are correctly places. The white color indicate that an element corresponds to one in its combination but is not correctly placed. for the elements that are not in its combination, the challenger indicate nothing.
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
