@@ -3,7 +3,7 @@
 # Mastermind
 *Erwan de Boisjolly*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Barcelona & June*
 
 ## Content
 - [Project Description](#project-description)
