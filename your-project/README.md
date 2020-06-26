@@ -46,18 +46,17 @@ Once feedback is provided, another guess is made; guesses and feedback continue 
 8. Iterate rounds until player wins or max number of rounds reached
 
 ## Organization
-I used a Trello board to organize my project. Link. To the board is available below.
+I used a Trello board to organize my project. A screenshot of the Trello board is available in the repository.
 
 The repository is composed of the below list of file:
 
 - Jupiter Notebook with python code of the game: *Mastermind.ipynb*
 - The current README file: *README.md*
-- The presentation of the project: *Presentation_Mastermind-project.key*
+- The presentation of the project: *Presentation_Mastermind-project.pdf*
 - An image of the game board: *Mastermind-For-Kids_02.jpg*
+- A screenshot of my Trello board: *Trello_board.png*
 
 ## Links
 
 
 [Repository](https://github.com/ErwanDB/Project-Week-1-Build-Your-Own-Game.git)  
- 
-<img src="Trello_board.png" alt="Trello Board" title="Trello board"/>  

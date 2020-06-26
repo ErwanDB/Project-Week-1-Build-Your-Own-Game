@@ -4,7 +4,7 @@
 
 ### Images ###
 # JPEG
-*.jpg
+
 *.jpeg
 *.jpe
 *.jif
@@ -34,7 +34,7 @@
 *.webp
 
 # Portable Network Graphics
-*.png
+
 
 # Animated Portable Network Graphics
 *.apng
@@ -51,7 +51,7 @@
 *.svgz
 
 # Portable Document Format
-*.pdf
+
 
 # X BitMap
 *.xbm
@@ -110,7 +110,5 @@ Temporary Items
 .apdisk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks,images
-
-*.key
 
 Presentation_Mastermind-project.key
