@@ -59,5 +59,5 @@ The repository is composed of the below list of file:
 
 
 [Repository](https://github.com/ErwanDB/Project-Week-1-Build-Your-Own-Game.git)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+ 
+<img src="Trello_board.png" alt="Trello Board" title="Trello board"/>  
